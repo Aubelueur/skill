@@ -1,2 +1,2 @@
-# skill
+# skills
 skill仓库
